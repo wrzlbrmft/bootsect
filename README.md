@@ -2,7 +2,9 @@
 
 An x86 boot loader printing _Hello World!_.
 
-## Build with Turbo Assembler
+## Build Instructions
+
+Using Turbo Assembler:
 
 ```
 tasm bootsect.asm
