@@ -1,6 +1,6 @@
 # bootsect
 
-An x86 boot loader printing _Hello World!_.
+An x86 boot loader printing _Hello World!_
 
 ## Build Instructions
 
